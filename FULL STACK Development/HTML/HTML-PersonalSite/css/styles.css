@@ -1,0 +1,45 @@
+/************TAG SELECTORS***********/
+
+
+body {
+    background-color:#ECF9FF;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;        
+}
+
+h3{
+    color: #6096B4;
+}
+
+h1{
+    color: #A7727D;
+}
+
+img:hover{
+    border-radius: 50px;
+    background-color: gold;
+}
+
+
+
+/******************CLASS SELECTORS**********************/
+.bacon{
+    border-radius: 50px;
+    background-color: red;
+}
+
+.chicken{
+    border-radius: 50%;
+    background-color: yellow;
+}
+
+/***********ID SELECTORS**********/
+
+#heading{
+    color: blue;
+}
